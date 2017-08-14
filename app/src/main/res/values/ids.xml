@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="act_atualizarNotas" type="id">act_atualizarNotas</item>
+    <item name="act_fechar" type="id">act_fechar</item>
+    <item name="list_calendario" type="id">lis_calendario</item>
+</resources>
